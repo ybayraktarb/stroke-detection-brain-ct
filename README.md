@@ -1,7 +1,3 @@
-# stroke-detection-brain-ct
-Deep learning-based stroke detection on brain CT images using CNNs and ensemble models
-
-
 ## Project Overview
 
 This project aims to classify CT slices as either:
