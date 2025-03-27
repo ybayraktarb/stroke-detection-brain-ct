@@ -4,7 +4,7 @@ Deep learning-based stroke detection on brain CT images using CNNs and ensemble 
 
 ## Project Overview
 
-Stroke is a leading cause of disability and death worldwide. Early diagnosis via CT scans can be life-saving. This project aims to classify CT slices as either:
+This project aims to classify CT slices as either:
 
 - `Normal`
 - `Stroke`
