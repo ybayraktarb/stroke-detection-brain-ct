@@ -11,13 +11,13 @@ The model uses transfer learning and fine-tuning on CNN architectures with advan
 
 ## Models Implemented
 
-- EfficientNetB0–B4
-- EfficientNetV2-S
 - ResNet18 / 34 / 50
-- VGG13 / VGG16
 - DenseNet121
-- YOLOv8-M (for object-level classification)
 - Weighted Ensemble Model
+- EfficientNetB0–B4
+- VGG13 / VGG16
+- EfficientNetV2-S
+- YOLOv8-M (for object-level classification)
 
 ---
 
